@@ -29,34 +29,34 @@ github_username: bangunarya
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-scholar
+ # - jekyll-scholar
 
 
 
-scholar:
-  style: apa
-  locale: en
+#scholar:
+#  style: apa
+#  locale: en
+#
+#  sort_by: none
+#  order: descending
 
-  sort_by: none
-  order: descending
+#  group_by: none
+#  group_order: ascending
 
-  group_by: none
-  group_order: ascending
+#  source: _bibliography
+#  bibliography: publications.bib
+#  bibliography_template: ""
 
-  source: _bibliography
-  bibliography: publications.bib
-  bibliography_template: ""
+#  replace_strings: true
+#  join_strings:    true
 
-  replace_strings: true
-  join_strings:    true
+#  use_raw_bibtex_entry: false
 
-  use_raw_bibtex_entry: false
+#  details_dir:    bibliography
+#  details_layout: bibtex.html
+#  details_link:   Details
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
+#  query: "@*"
 
 
 # Exclude from processing.
