@@ -16,3 +16,7 @@ My research focuses on signal processing, optimization method, and  machine lear
 - Dr.-Ing. (PhD) in Electrical Engineering and Information Technology, RWTH Aachen University, Germany
 - M.Sc. in  Electrical Engineering and Information Technology, RWTH Aachen University, Germany
 - B.Eng. in Telecommunication Engineering, Telkom University, Indonesia
+
+### **Trivia**
+
+My Erdös number is 4, we can check it [here](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)
