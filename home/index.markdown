@@ -19,4 +19,4 @@ My research focuses on signal processing, optimization method, and  machine lear
 
 ### **Trivia**
 
-My Erdös number is 4, we can check it [here](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)
+My Erdös number is 4, we can check [here](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2)
