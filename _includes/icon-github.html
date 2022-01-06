@@ -1,1 +1,2 @@
-<a href="https://github.com/{{ include.username }}"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span></a>
+{%- if site.github_username -%}<a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><img border="0" alt="github_link" src = "/assets/img/icon-github.svg" width="30" height="30"></a>{%- endif -%}
+ 
