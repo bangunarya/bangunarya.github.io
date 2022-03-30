@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Sparse Recovery on the Sphere"
+date:   2017-01-01 08:42:13 +0100
+categories: jekyll update
+---
+Suppose we have signals acquired on the spherical coordinate with radius $r = 1$, sometimes also called unit two-dimesional sphere $\mathbb{S}^2$, embedded in the three-dimensional Euclidean space $\mathbb{R}^3$. The unit two-dimensional sphere can be defined as follow
+$$
+\mathbb{S}^2 = \{\mathbf{u} \in \mathbb{R}^3 |\left\|\mathbf{u}\right\|_2\}
+$$
+Here, $\left\| \right\|_2$ is $\ell_2-norm$ or Euclidean norm. Parameterization of three-dimensional Euclidean space to the unit two-dimensional sphere can also be defined in the  coordinate transformation, where we have
+
+$$
+u_x = \sin \theta \cos \phi\\
+u_y = \sin \theta \sin \phi\\
+u_z = \cos \theta
+$$
+
+In many practical measurement system, we acquired signals on the unit sphere, for instance spherical near-field measurements, spherical microphone arrays. Suppose we record signals on the spherical coordinate given as a function $f(\theta,\phi) \in \mathbb{C}$. Furthermore, assume that this function $f: \mathbb{S}^2 \rightarrow \mathbb{C}$ is a square-integrable function. Therefore, we can expand this signal by spherical harmonics $Y_l^k (\theta,\phi)$, given as
+$$
+f(\theta,\phi) = \sum_{l = 0}^{\infty} \sum_{k = -l}^l f_l^k Y_l^k (\theta,\phi),
+$$
+
+where spherical harmonics can be written in terms of associated Legendre polynomials $P_l^k \left(\cos \theta \right)$ and trigonometric function as 
+$$
+Y_l^k (\theta,\phi) = \sqrt{\frac{2l + 1}{4\pi}\frac{(l-k)!}{(l +k)!}} P_l^k \left(\cos \theta \right) e^{ik\phi}
+$$
+
+ which is denoted by $f(\theta,\phi)$. It should be noted that here we assume we have unit sphere $\mathbb{S}^2$, where the definition is given as follows,
+
+$\theta \in [0,\pi]$ and $\phi \in [0,2\pi)$. , i.e., electromagnetic fields, acoustic, etc. Here we define  a function $ f(\theta,\phi)$
+ 
+ 
