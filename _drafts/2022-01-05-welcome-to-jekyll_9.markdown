@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll 2!"
+title:  "Multislice Method for Thick Specimen"
+date:   2018-01-01 08:42:13 +0100
 categories: jekyll update
 ---
 
