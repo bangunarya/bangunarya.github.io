@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accepted Journal Paper at IEEE TSP"
+date:   2020-02-04 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our journal paper with a title 'Sensing matrix design and sparse recovery on the sphere and the rotation group' is accepted at IEEE Transactions on Signal Processing!

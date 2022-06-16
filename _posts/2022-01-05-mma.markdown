@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Accepted Journal Paper at M&M"
+date:   2021-07-17 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our journal paper with a title 'Live Processing of Momentum-Resolved STEM Data for First Moment
+Imaging and Ptychography' is accepted at Microscopy and Microanalysis!

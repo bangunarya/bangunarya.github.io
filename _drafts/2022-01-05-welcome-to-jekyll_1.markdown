@@ -4,6 +4,7 @@ title:  "Sparse Recovery on the Sphere and the Rotation Group"
 date:   2017-01-01 08:42:13 +0100 (1)
 categories: jekyll update
 ---
+
 The spherical coordinate with radius $$r = 1$$, sometimes also called unit two-dimesional sphere $$\mathbb{S}^2$$, embedded in the three-dimensional Euclidean space $$\mathbb{R}^3$$ can be defined as follow
 
 $$

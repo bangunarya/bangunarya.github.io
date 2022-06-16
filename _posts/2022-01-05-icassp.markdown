@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accepted Paper at IEEE ICASSP"
+date:   2018-01-29 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our conference paper with a title 'Coherence Bounds for Sensing Matrices in Spherical Harmonics Expansion' is accepted at IEEE ICASSP in Calgary, Canada, April 2018!

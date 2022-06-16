@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accepted Journal Paper at STSPDA"
+date:   2021-04-19 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our journal paper with a title 'Tight bounds on the mutual coherence of sensing matrices for Wigner D-functions on regular grids' is accepted at Sampling Theory, Signal Processing, and Data Analysis!

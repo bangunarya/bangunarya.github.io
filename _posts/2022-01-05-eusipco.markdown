@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accepted Paper at EUSIPCO"
+date:   2019-06-04 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our conference paper with a title 'Signal Recovery from Phaseless Measurements of Spherical Harmonics Expansion' is accepted at EUSIPCO in A Coruna, Spain, September 2019!
