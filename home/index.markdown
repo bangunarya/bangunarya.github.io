@@ -1,6 +1,6 @@
 ---
 layout: home
-title : Home
+title : ""
 permalink: /
 ---
 ![image](/assets/img/prof_pict.png){: style="float: right; margin-left: 1em;"}{:max height="200" }
@@ -21,4 +21,4 @@ Since March 2022, I have been contributing to a project by <a href="https://yns-
 
 ### **Trivia**
 
-My Erdös number is [4](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2).
+My Erdös number is [4](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2), working towards 3.

@@ -69,7 +69,7 @@ $$
 \end{equation}
 $$
 
-and the vector \(\mathrm{D}^{n}_{\mu,m}(\boldsymbol\theta,\boldsymbol\phi,\boldsymbol\chi)\) is, in turn, 
+and the vector \(\mathrm{D}_{l}^{k,n}(\boldsymbol\theta,\boldsymbol\phi,\boldsymbol\chi)\) is, in turn, 
 $$
 \mathrm{D}_{l}^{k,n}(\boldsymbol\theta,\boldsymbol\phi,\boldsymbol\chi):=
 \begin{pmatrix}

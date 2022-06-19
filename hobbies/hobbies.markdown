@@ -11,7 +11,7 @@ Some places I have visited during conferences or vacations.
 </div>
 {% include image-gallery.html folder="/images/" %}
 ### **Music** 
-Some music covers I have created 
+Some music covers I have made 
 <ol>
   <li> <a href="https://www.bandlab.com/revisions/1074bfbd-1a6e-ec11-94f6-a04a5e79a6b8?sharedKey=RzYFrz5zpUy-Vin3k3AjuQ">Deep Purple - Smoke on the Water</a> </li>
   <li> <a href="https://www.bandlab.com/revisions/589bad8d-5f85-ec11-94f6-0003ffcd3240?sharedKey=MtpisNW2IECP1uQ8Br7EZg"> Muse - Stockholm Syndrome</a> </li>
