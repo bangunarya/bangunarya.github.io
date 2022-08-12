@@ -4,8 +4,8 @@ title : Projects
 permalink: /projects/
 ---
  
-# **[``Locomatopt``]( )**
-<div style="text-align: justify">This project deals with the coherence optimization of sensing matrices constructed from sampling points on the sphere. We proposed gradient-based optimization and augmented Lagrangian method to optimize the coherence. A short introduction and summary can be read <a href=" ">here</a>. 
+# **[``Locomatopt``]()**
+<div style="text-align: justify">This project deals with the coherence optimization of sensing matrices constructed from sampling points on the sphere. We proposed gradient-based optimization and augmented Lagrangian method to optimize the coherence. A short introduction and summary can be read <a href="https://bangunarya.github.io/jekyll/update/2022/06/10/optimizing.html">here</a>. 
 <center><img src="/assets/img/sampling_points.png"  aligned="center" width="350" height="150" ></center>
 </div>
 Related publications:
@@ -14,7 +14,7 @@ Related publications:
 - Bangun, A., Behboodi, A., & Mathar, R. (2020).  <a href="https://ieeexplore.ieee.org/document/8995561">  Sensing matrix design and sparse recovery on the sphere and the rotation  group.</a>  IEEE Transactions on Signal Processing, 68, 1439–1454.<a href="https://arxiv.org/abs/1904.11596"> Accessible arxiv </a>
  
 # **[``Ptychography 4.0``]( https://ptychography-4-0.github.io/ptychography/#)**
-<div  style="text-align: justify">This project is related to the development of ptychography algorithm as well as the modification so that we can have live processing reconstruction. Since this project is still running, the algorithm will be updated gradually. For a short introduction of ptychography can be read here.
+<div  style="text-align: justify">This project is related to the development of ptychography algorithm as well as the modification so that we can have live processing reconstruction. Since this project is still running, the algorithm will be updated gradually. For a short introduction of ptychography can be read  <a href="https://bangunarya.github.io/jekyll/update/2020/05/10/ptychography_method.html">here</a>. 
 
 <center><img src="/assets/img/ptycho.png"  aligned="center" width="550" height="350" ></center>
 </div>
