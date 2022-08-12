@@ -3,13 +3,6 @@ layout: page
 title: Hobbies
 permalink: /hobbies/
 ---
-
-### **Travels** 
-<div style="text-align: justify">
-Some places I have visited during conferences or vacations. 
-
-</div>
-{% include image-gallery.html folder="/images/" %}
 ### **Music** 
 Some music covers I have made 
 <ol>
@@ -20,4 +13,11 @@ Some music covers I have made
   <li> <a href="https://www.bandlab.com/revisions/988d526c-7ac9-ec11-997e-28187831e8a1?sharedKey=Pm-vMIiQBkOU4FfoC1PgiA"> Avenged Sevenfold - Sidewinder (Acoustic Solo Guitar)</a> </li>
 
 </ol> 
+
+### **Traveling** 
+<div style="text-align: justify">
+Some places I have visited during conferences or vacations. 
+
+</div>
+{% include image-gallery.html folder="/images/" %}
 
