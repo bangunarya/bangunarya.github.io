@@ -4,7 +4,7 @@ title : Projects
 permalink: /projects/
 ---
  
-# **[``Locomatopt``]()**
+# **[``Locomatopt``](https://github.com/bangunarya/locomatopt)**
 <div style="text-align: justify">This project deals with the coherence optimization of sensing matrices constructed from sampling points on the sphere. We proposed gradient-based optimization and augmented Lagrangian method to optimize the coherence. A short introduction and summary can be read <a href="https://bangunarya.github.io/jekyll/update/2022/06/10/optimizing.html">here</a>. 
 <center><img src="/assets/img/sampling_points.png"  aligned="center" width="350" height="150" ></center>
 </div>
@@ -23,7 +23,7 @@ Related publications:
 - Bangun, A., Melnyk, O., März, B., Diederichs, B., Clausen, A., Weber, D., Filbir, F., Müller-Caspary, K. (2022), <a href="https://arxiv.org/abs/2205.03902">  Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition.</a>
 - Strauch, A., Weber, D., Clausen, A., Lesnichaia, A., Bangun, A., März, B., Lyu, F. J., Chen, Q., Rosenauer, A.,   Dunin-Borkowski, R., & others. (2021). <a href="https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/live-processing-of-momentumresolved-stem-data-for-first-moment-imaging-and-ptychography/5FDD47E708AC82B22ADDB0A074108213">Live processing of momentum-resolved STEM data for first moment imaging and  ptychography.</a> Microscopy and Microanalysis, 27(5), 1078
 
-# **[``Pytarlody``]()**
+# **[``Pytarlody``](https://github.com/bangunarya/pytarlody)**
 <div  style="text-align: justify">We develop a mapping between time-frequency analysis of guitar signals to guitar tablature for tuning and melody detection. Firstly, the Gabor Wavelet method is employed to have a time-frequency representation. Secondly, the mapping technique to the frequency database is used to generate guitar tablature. The current implementation adopts a direct mapping from time-frequency analysis to guitar string and frets position. At the moment, we are developing a method to process live data, as well as machine learning to directly generate guitar tablature.
 <br>
 <center><img src="/assets/img/pytarlody.png"  aligned="center" width="550" height="120" ></center>
