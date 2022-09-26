@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Invited Talk"
+date:   2022-05-08 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+I have been invited to give a talk related to our new preprint paper with a title [Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition](https://arxiv.org/abs/2205.03902) in an electron ptychography community organized by researcher from Argonne National Laboratory, Cornell, UC Berkeley etc.
