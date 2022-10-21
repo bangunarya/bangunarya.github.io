@@ -9,10 +9,10 @@ permalink: /publications/
 ## Preprints
 - Bangun, A., & Culotta-Lopez, C. (2022),  <a href="https://arxiv.org/abs/2206.02181"> Optimizing Sensing Matrices for Spherical Near-Field Antenna Measurements.</a>
 
-- Bangun, A., Melnyk, O., März, B., Diederichs, B., Clausen, A., Weber, D., Filbir, F., Müller-Caspary, K. (2022), <a href="https://arxiv.org/abs/2205.03902">  Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition.</a>
-
-
 ## Journal Articles
+- Bangun, A., Melnyk, O., März, B., Diederichs, B., Clausen, A., Weber, D., Filbir, F., Müller-Caspary, K. (2022), <a href="https://arxiv.org/abs/2205.03902">  Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition.</a> to appear at IEEE Transactions on Computational Imaging (the final version will be updated soon)
+
+
 - Strauch, A., Weber, D., Clausen, A., Lesnichaia, A., Bangun, A., März, B., Lyu, F. J., Chen, Q., Rosenauer, A.,   Dunin-Borkowski, R., & others. (2021). <a href="https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/live-processing-of-momentumresolved-stem-data-for-first-moment-imaging-and-ptychography/5FDD47E708AC82B22ADDB0A074108213">Live processing of momentum-resolved STEM data for first moment imaging and  ptychography.</a> Microscopy and Microanalysis, 27(5), 1078–1092.
 
 - Bangun, A., Behboodi, A., & Mathar, R. (2021). <a href="https://link.springer.com/article/10.1007/s43670-021-00006-2"> Tight bounds on the mutual coherence of sensing matrices for Wigner D-functions on regular grids.</a> Sampling Theory, Signal Processing, and Data Analysis, 19(2), 1–39. 

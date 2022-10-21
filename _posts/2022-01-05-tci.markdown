@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accepted Journal Paper at IEEE TCI"
+date:   2022-10-21 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our journal paper with a title 'Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition' is accepted at IEEE Transactions on Computational Imaging!
