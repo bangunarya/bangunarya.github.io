@@ -39,6 +39,7 @@ permalink: /publications/
 
 - Wibowo, F. X. A., & Bangun, A. A. P. (2011). Study on transmission bearer mechanisms for e-MBMS in LTE based femtocells. 2011 Future Network & Mobile Summit, 1–10.
 
-## Books
+## Book and Book Chapter
 
-- Bangun, A. (2020). Signal recovery on the sphere from compressive and phaseless measurements, Dissertation RWTH Aachen. Lehrstuhl und Institut für Theoretische Informationstechnik.
+- Culotta-Lopez, C., Bangun, A., Mathar, R., Heberling, D. Compressed Sensing in the Spherical Near-Field to Far-Field Transformation, Compressed Sensing in Information Processing. Birkhäuser, Cham, 2022. 507-535. DOI:10.1007/978-3-031-09745-4_16
+- Bangun, A. (2020). Signal recovery on the sphere from compressive and phaseless measurements, Dissertation RWTH Aachen. Lehrstuhl und Institut für Theoretische Informationstechnik. DOI:10.18154/RWTH-2020-03041
