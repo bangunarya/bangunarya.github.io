@@ -39,5 +39,5 @@ permalink: /publications/
 
 ## Book and Book Chapter
 
-- Culotta-Lopez, C., Bangun, A., Mathar, R., Heberling, D.<a href "https://link.springer.com/chapter/10.1007/978-3-031-09745-4_16"></a> Compressed Sensing in the Spherical Near-Field to Far-Field Transformation, Compressed Sensing in Information Processing. Birkhäuser
-- Bangun, A. <a href "https://publications.rwth-aachen.de/record/785206/"></a> Signal recovery on the sphere from compressive and phaseless measurements, Dissertation RWTH Aachen. Lehrstuhl und Institut für Theoretische Informationstechnik.
+- Culotta-Lopez, C., Bangun, A., Mathar, R., Heberling, D.<a href "https://link.springer.com/chapter/10.1007/978-3-031-09745-4_16">Compressed Sensing in the Spherical Near-Field to Far-Field Transformation</a> , Compressed Sensing in Information Processing. Birkhäuser
+- Bangun, A. <a href "https://publications.rwth-aachen.de/record/785206/">Signal recovery on the sphere from compressive and phaseless measurements,</a>  Dissertation RWTH Aachen. Lehrstuhl und Institut für Theoretische Informationstechnik.
