@@ -4,14 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
- 
 
 ## Preprints
 - Bangun, A., & Culotta-Lopez, C. (2022),  <a href="https://arxiv.org/abs/2206.02181"> Optimizing Sensing Matrices for Spherical Near-Field Antenna Measurements.</a>
 
 ## Journal Articles
-- Bangun, A., Melnyk, O., März, B., Diederichs, B., Clausen, A., Weber, D., Filbir, F., Müller-Caspary, K. (2022), <a href="https://arxiv.org/abs/2205.03902">  Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition.</a> to appear at IEEE Transactions on Computational Imaging (the final version will be updated soon)
-
+- Bangun, A., Melnyk, O., März, B., Diederichs, B., Clausen, A., Weber, D., Filbir, F., Müller-Caspary, K. (2022), <a href="https://ieeexplore.ieee.org/document/9936607">  Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition.</a> IEEE Transactions on Computational Imaging
 
 - Strauch, A., Weber, D., Clausen, A., Lesnichaia, A., Bangun, A., März, B., Lyu, F. J., Chen, Q., Rosenauer, A.,   Dunin-Borkowski, R., & others. (2021). <a href="https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/live-processing-of-momentumresolved-stem-data-for-first-moment-imaging-and-ptychography/5FDD47E708AC82B22ADDB0A074108213">Live processing of momentum-resolved STEM data for first moment imaging and  ptychography.</a> Microscopy and Microanalysis, 27(5), 1078–1092.
 
@@ -41,5 +39,5 @@ permalink: /publications/
 
 ## Book and Book Chapter
 
-- Culotta-Lopez, C., Bangun, A., Mathar, R., Heberling, D. Compressed Sensing in the Spherical Near-Field to Far-Field Transformation, Compressed Sensing in Information Processing. Birkhäuser, Cham, 2022. 507-535. DOI:10.1007/978-3-031-09745-4_16
-- Bangun, A. (2020). Signal recovery on the sphere from compressive and phaseless measurements, Dissertation RWTH Aachen. Lehrstuhl und Institut für Theoretische Informationstechnik. DOI:10.18154/RWTH-2020-03041
+- Culotta-Lopez, C., Bangun, A., Mathar, R., Heberling, D.<a href "https://link.springer.com/chapter/10.1007/978-3-031-09745-4_16"></a> Compressed Sensing in the Spherical Near-Field to Far-Field Transformation, Compressed Sensing in Information Processing. Birkhäuser
+- Bangun, A. <a href "https://publications.rwth-aachen.de/record/785206/"></a> Signal recovery on the sphere from compressive and phaseless measurements, Dissertation RWTH Aachen. Lehrstuhl und Institut für Theoretische Informationstechnik.
