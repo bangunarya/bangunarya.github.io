@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Accepted Journal Paper at IEEE TAP"
+date:   2022-11-28 08:42:13 +0100 (1)
+categories: jekyll update
+---
+
+Our journal paper with a title 'Optimizing Sensing Matrices for Spherical Near-Field Antenna Measurements' is accepted at IEEE Transactions on Antennas and Propagation! Stay tuned for the published version!
