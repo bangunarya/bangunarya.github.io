@@ -6,7 +6,7 @@ permalink: /publications/
 
 
 ## Preprints
-- Bangun, A., Baumeister, P., Clausen, A., Weber, D., Dunin-Borkowski, R. E. (2022). Wigner Distribution Deconvolution Adaptation for Live Ptychography Reconstruction (Arxiv link will be added soon)
+- Bangun, A., Baumeister, P., Clausen, A., Weber, D., Dunin-Borkowski, R. E. (2022). <a href="http://arxiv.org/abs/2212.01309"> Wigner Distribution Deconvolution Adaptation for Live Ptychography Reconstruction. </a>
 
 ## Journal Articles
 - Bangun, A., & Culotta-Lopez, C. (2022),  <a href="https://arxiv.org/abs/2206.02181"> Optimizing Sensing Matrices for Spherical Near-Field Antenna Measurements.</a> accepted at IEEE Transactions on Antennas and Propagation (Final paper will be updated soon)

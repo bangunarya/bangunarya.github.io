@@ -20,5 +20,4 @@ Since March 2022, I have been contributing to a project by <a href="https://yns-
 - B.Eng. in Telecommunication Engineering, Telkom University, Indonesia
 
 ### **Trivia**
-
-My Erdös number is [4](https://mathscinet.ams.org/mathscinet/freeTools.html?version=2), working towards 3.
+My Erdös number is 3 (Frank Filbir>Charles Kam-tai Chui>Erdös.)
