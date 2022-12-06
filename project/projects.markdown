@@ -38,3 +38,6 @@ Related publications:
 <div  style="text-align: justify"> In this project, we develop an automated broadcast message for the Indonesia Christian Student group in Line messenger, using Line Notify, which is implemented with <code> crontab </code>  command in Linux to automatically execute python command for a reminder, birthday greetings as well as events. 
 <center><img src="/assets/img/perkichat.png"  aligned="center" width="150" height="320" ></center>
 <br>
+
+# **[``DSML_YNS``](https://github.com/bangunarya/DSML_YNS)**
+<div  style="text-align: justify">In March 2022, I was invited to contribute a project by <a href="https://yns-iggrd.org/">Yayasan Nusantara Sejati</a> as a content expert to help develop data science and machine learning course materials for students in the <a href="https://dayamaya.id/daftar-daerah/"> 3T</a> <i> (Terluar, Tertinggal, Terdepan)</i> area (isolated and left-behind regions) in Indonesia. The main challenge in this project is to deliver the complex fundamental theory of data science and machine learning such that it can be easily grasped. Additionally, a simple python implementation is also provided.
