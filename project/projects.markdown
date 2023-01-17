@@ -9,7 +9,8 @@ permalink: /projects/
 <center><img src="/assets/img/sampling_points.png"  aligned="center" width="350" height="150" ></center>
 </div>
 Related publications:
-- Bangun, A., & Culotta-Lopez, C. (2022),  <a href="https://arxiv.org/abs/2206.02181"> Optimizing Sensing Matrices for Spherical Near-Field Antenna Measurements.</a> accepted at IEEE Transactions on Antennas and Propagation (Final paper will be updated soon)
+- Bangun, A., & Culotta-Lopez, C. (2022), <a href= "https://ieeexplore.ieee.org/document/9979759">Optimizing Sensing Matrices for Spherical Near-Field Antenna Measurements.</a> IEEE Transactions on Antennas and Propagation.
+<a href="https://arxiv.org/abs/2206.02181"> Accessible arxiv </a> 
 - Bangun, A., Behboodi, A., & Mathar, R. (2021). <a href="https://link.springer.com/article/10.1007/s43670-021-00006-2"> Tight bounds on the mutual coherence of sensing matrices for Wigner D-functions on regular grids.</a> Sampling Theory, Signal Processing, and Data Analysis, 19(2), 1–39. 
 - Bangun, A., Behboodi, A., & Mathar, R. (2020).  <a href="https://ieeexplore.ieee.org/document/8995561">  Sensing matrix design and sparse recovery on the sphere and the rotation  group.</a>  IEEE Transactions on Signal Processing, 68, 1439–1454.<a href="https://arxiv.org/abs/1904.11596"> Accessible arxiv </a>
  
