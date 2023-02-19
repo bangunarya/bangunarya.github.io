@@ -3,7 +3,7 @@ layout: home
 title : ""
 permalink: /
 ---
-![image](/assets/img/prof_pict.png){: style="float: right; margin-left:2em;"}{:max height="200" }
+![image](/assets/img/bild.jpeg){: style="float: right; margin-left:2em;"}{:max height="200" }
 #### **Research Scientist @ Ernst Ruska Centre, Forschungszentrum Jülich, Germany**
 
 <p style="text-align: justify">My research focuses on mathematical signal processing, optimization method, and  machine learning, with application in image reconstruction for electron microscopy. Prior to <a href="https://www.fz-juelich.de">Forschungszentrum Jülich</a>, I did my PhD at <a href="https://www.rwth-aachen.de">RWTH Aachen University </a> with <a href="https://www.ti.rwth-aachen.de/~mathar/">Prof. Rudolf Mathar</a>, mainly working on compressed sensing and sparse reconstruction algorithm for spherical near-field measurements. </p>

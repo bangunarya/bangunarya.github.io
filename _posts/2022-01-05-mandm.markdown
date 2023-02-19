@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Accepted Journal Paper at M&M"
+date:   2023-02-06 08:42:13 +0100  
+categories: jekyll update
+---
+
+Our journal paper with a title 'Wigner Distribution Deconvolution Adaptation for Live Ptychography Reconstruction' is accepted at Microscopy and Microanalysis Journal! 
+Stay tuned for the published version!
+
