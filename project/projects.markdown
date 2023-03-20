@@ -21,7 +21,7 @@ Related publications:
 </div>
 <br>
  Related publications:
-- Bangun, A., Baumeister, P., Clausen, A., Weber, D., Dunin-Borkowski, R. E. (2023). <a href="http://arxiv.org/abs/2212.01309"> Wigner Distribution Deconvolution Adaptation for Live Ptychography Reconstruction. </a> To appear at Microscopy and Microanalysis
+- Bangun, A., Baumeister, P., Clausen, A., Weber, D., Dunin-Borkowski, R. E. (2023). <a href="https://doi.org/10.1093/micmic/ozad021"> Wigner Distribution Deconvolution Adaptation for Live Ptychography Reconstruction. </a> Microscopy and Microanalysis
 
 - Bangun, A., Melnyk, O., März, B., Diederichs, B., Clausen, A., Weber, D., Filbir, F., Müller-Caspary, K. (2022), <a href="https://ieeexplore.ieee.org/document/9936607">  Inverse Multislice Ptychography by Layer-wise Optimisation and Sparse Matrix Decomposition.</a> IEEE Transactions on Computational Imaging
 
