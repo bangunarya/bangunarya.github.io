@@ -15,4 +15,4 @@ permalink: /
 - B.Eng. in Telecommunication Engineering, Telkom University, Indonesia
 
 ### **Trivia**
-My Erdös number is 3 (Frank Filbir>Charles Kam-tai Chui>Erdös.)
+My Erdös number is <a href="https://mathscinet.ams.org/mathscinet/collaborationDistance.html">3</a>
