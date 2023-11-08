@@ -14,5 +14,12 @@ permalink: /
 - M.Sc. in  Electrical Engineering and Information Technology, RWTH Aachen University, Germany
 - B.Eng. in Telecommunication Engineering, Telkom University, Indonesia
 
+### **Awards**
+- Best Paper - ”A Compressed Sampling for Spherical Near-Field Measurements” at
+Annual Meeting and Symposium of the Antenna Measurement Techniques Association (AMTA 2018)
+- Methods and algorithms in ”Wigner Distribution Deconvolution Adaptation for
+Live Ptychography Reconstruction” are selected and highlighted by Microscopy
+Today
+
 ### **Trivia**
 My Erdös number is <a href="https://mathscinet.ams.org/mathscinet/collaborationDistance.html">3</a>
