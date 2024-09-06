@@ -1,0 +1,9 @@
+﻿---
+layout: post
+title:  "WACV 2025"
+date:   2024-08-31 23:08:13 +0100 (1)
+categories: jekyll update
+---
+
+Our paper, titled "MRI Reconstruction  with Regularized 3D Diffusion Model (R3DM)" is accepted at
+the premier international computer vision event WACV 2025. Stay tuned for the published version!
